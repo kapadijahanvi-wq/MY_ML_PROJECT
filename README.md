@@ -3,4 +3,5 @@ The Rice Crop Yield Prediction project includes  advanced machine learning Regre
 team members:
 1.Jahnvi kapadi
 2.Kusha kacchadiya
-This project predicts the yields_tones of rice per hector. 
+This project predicts the yields_tones of rice per hectore.
+
